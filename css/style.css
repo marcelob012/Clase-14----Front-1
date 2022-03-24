@@ -43,7 +43,22 @@ body{
             justify-content: flex-end;
             align-items:center;
         }
-        
+        main>section.sectionCards>div.boton{
+            position: fixed;
+            height: 150px;
+            width: 150px;
+            background-color: #00669F;
+            border-radius: 100%;
+            font-size: 96px;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            right: 73px;
+            top: 1739px;
+            
+
+        }
         main>section.sectionCards>article>div.fondo{
             width: 805px;
             height: 492.5px;
@@ -59,7 +74,7 @@ body{
             border-radius: 100%;
             position: absolute;
             top: 350px;
-            left: 240px;
+            left: 280px;
         }
         main>section.sectionCards>article>div.fondo>img.corazon{
             position: absolute;
